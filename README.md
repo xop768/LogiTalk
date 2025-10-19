@@ -1,2 +1,2 @@
 # LogiTalk
-WARNING! This program in Beta test, this program have bugs.
+WARNING! This program in Beta test and have bugs.
